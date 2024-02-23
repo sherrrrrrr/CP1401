@@ -1,0 +1,8 @@
+1. In these weeks, I have learned the basic syntax and basic concepts of python,
+   through continuous exercises after class, I understand how to complete my code.
+2. I often replay the recording of the course. At the same time,
+   I also watch some teaching videos related to python on YouTube
+   and ask the teacher in time if I have any questions.
+3. I need to run the code over and over again to see what went wrong
+   before I finished the code until it was running properly
+   without any errors or bugs.

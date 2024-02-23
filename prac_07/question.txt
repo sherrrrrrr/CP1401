@@ -1,0 +1,26 @@
+Quick Questions
+1. Where should global constants be placed in a program?
+A. the top
+2. What are two reasons why you should not use global variables?
+A. It will make the code readable and modifiable by any part of the program,
+   which may lead to unforeseen changes in the program. Also, when global variables
+   are shared between different parts of the program, bugs and errors may arise.
+3. When you have two variables with the same name but in different functions, these said to have different ____?
+A. scopes
+4. What do you call the red dot in the margin in PyCharm that pauses the program running when using the debugger?
+A. breakpoint
+5. Briefly explain what would be wrong if you had a line of code like SOME_VALUE += 1
+   (assume that SOME_VALUE is actually a meaningful name).
+A. If 'SOME_VALUE' has not been defined before, but code 'SOME_VALUE += 1' appears in the program, it will be error.
+   'SOME_VALUE' violates the convention of constant. If 'SOME_VALUE' is a constant, it should not be modified.
+6. What is the single most important design principle for designing functions?
+A. Single Responsibility Principle
+
+Logic Exercise
+We can't use "in the""the spring". We should say "In the spring". Delete one "the".
+
+Reflection
+1. While writing the code, I have to keep running the code to check for bugs or errors.
+2. Be sure to pay attention to the use of symbols.
+3. The only way to get good results is to keep at it and keep trying.
+   Never give up the mission.

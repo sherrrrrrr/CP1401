@@ -1,0 +1,16 @@
+Quick question
+1. The main difference between a list and a tuple in Python is that a list is mutable, a tuple is immutable.
+2. The convention for naming lists in Python is to use plural nouns or noun phrases to indicate
+   that it is a collection of multiple elements.
+3. city_list
+4. The limit is determined by the available memory on your machine.
+5. False. Python supports storing elements of different types in a single list.
+6. The len function in Python returns the number of elements in a collection, such as a list.
+   It can be used with various types of collections, including lists, tuples, strings, dictionaries, and sets.
+
+List expressions
+numbers[0] = 1
+numbers[-1] = 4
+1 in numbers
+print(numbers[1] * 10)
+

@@ -1,0 +1,47 @@
+Quick Questions
+1. What is the PyCharm keyboard shortcut for commenting (out/in) a selection of code?
+A. "Ctrl + / " (for win)
+   "Cmd + / " (for mac)"
+2. What are the two kinds of loops available in Python?
+A. for loop(definite)
+   while loop (indefinite)
+3. What is a "sentinel" (when dealing with loops)?
+A. A special value used to signal the end of input or processing in a loop.
+   It's  help user control the loop's termination based on a specific condition
+4. What is wrong with this variable name: nothingWrong
+A. It's not follow the python convention, it should be "nothing_wrong".
+5. What are augmented assignment operators?
+A. Augmented assignment operators are shorthand operators in Python
+   that perform an operation and assign the result back to the variable.
+
+Loop outputs
+A. 1. (0,1,2,3,4,5)
+   2. (33,34,35,36,37,38)
+   3. (17,16,15,14,13,12)
+   4. (1,0,1,0,1,0,1,0,1,0)
+   5. (100>64>36>16>4>)
+
+Range values
+A. 1. for i in range(6):
+          print(i, end=' ')
+      print()
+   2. for i in range(1,14,4):
+          print(i, end=' ')
+      print()
+   3. for i in range(3,0,-1):
+          print(i, end=' ')
+      print()
+   4. for i in range(7,-6,-3):
+          print(i, end=' ')
+      print()
+
+Patterns
+A. 1. indefinite (while loops)
+   2. indefinite (while loops)
+   3. definite (for loops)
+   4. definite (for loops)
+   5. definite (for loops)
+   #determin by the user input
+
+Logic Exercise
+A. One marble.

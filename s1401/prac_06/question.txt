@@ -1,0 +1,40 @@
+Quick Questions
+1. What is the PyCharm shortcut key for commenting selected line/s of code?
+A. "Ctrl + / " (for win)
+   "Cmd + / " (for mac)
+2. What is the single most important design principle for designing functions?
+A. Single Responsibility Principle (SRP).
+3. What is the Python keyword for returning a value from a function?
+A. return.
+4. What are arguments and parameters? What is the difference between them?
+A. 1. Actual parameters are actual values or objects passed to a function or method
+   when it is called. Simply put, actual parameters are the input values passed to the
+   function. When you call a function, you need to provide the actual parameters so
+   that the function can use them to perform calculations or operations.
+   2. Parameters are variables in a function or method definition. They are used to
+   receive the values of actual parameters. Formal parameters are input parameters
+   to a function or method that define the input expected by the function or method.
+   When you define a function, you need to specify some parameters to accept input values.
+   These parameters can be used inside the function to perform calculations or operations.
+   3. The difference is that arguments are actual values passed to the function, while parameters
+   are variables in the function definition. When a function is called, the actual parameters
+   are assigned to the parameters, and the parameters can be used for calculations or operations
+   inside the function.
+5. What is the Python function call for generating a random number between 1 and 100?
+A. random.randint()
+6. Name 4 functions we've used in the subject so far (functions we've "called").
+A. def main()
+   def determine_age()
+   def validate_age()
+   random.randint()
+7. How many grams of freshly-ground specialty coffee did Lindsay make his coffee with in the lecture video?
+A. 18.5grams
+
+
+Good Names
+1. determine_subject_grade
+2. convert_currency_usd_to_aud
+3. print_report
+4. calculate_average
+5. is_number_even
+6. get_valid_user_salary

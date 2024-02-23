@@ -1,0 +1,30 @@
+Quick Questions
+1. The 'r' mode is used for opening a file in read-only mode.
+   It allows you to read the contents of the file but does not
+   allow modifications or writing to the file.
+   The 'w' mode is used for opening a file in write mode.
+   It will create a new file if it doesn't exist or overwrite
+   the existing file. It allows you to write content to the file
+   but does not support reading.
+2. A file object is a Python object that represents a file opened by
+   the `open()` function. It provides methods and attributes to perform
+   various operations on the file. A file name is simply a string that
+   represents the name or path of a file in the file system. The file's
+   contents refer to the actual data stored in the file.
+3. It is necessary to close a file after it has been opened and used to
+   release the resources associated with the file.
+4. A good principle for deciding whether a literal value should be stored in
+   a constant is if the value is required to remain fixed and should not be
+   modified throughout the program.
+5. print(filename)
+6. 5-10 question is a good number of quick question.
+
+Logic Exercise
+1. If you assume that there is exactly one false statement in the list,
+   then the first statement would be false, which contradicts the assumption.
+2. If you assume that there are exactly two false statements in the list,
+   then the second statement would be false, which contradicts the assumption.
+3. If you assume that there are exactly three false statements in the list,
+   then the third statement would be false, which contradicts the assumption.
+Conclusion：There is no consistent solution to this paradox,
+   it is not possible to determine the number of false statements in the list.

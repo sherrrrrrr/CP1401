@@ -1,0 +1,23 @@
+Quick Questions
+answer1. !=
+2. <=
+3. true
+4. false
+5. true
+6. true
+(% = find the reminder)
+
+Patterns
+Answer1.if elif else (else for the invalid order)
+   2.if,else (only one possible)
+   3.if,if,if (he can allergen for each customer)
+   4.if.elif,else (can be many)
+   5.if,else (yes or no)
+   6.if,else (possible)
+   7.if,else (2 possible output)
+   (colour, tongue length, number of eyes ++ use "and")
+
+Logic Exercise
+Answer. Alice is the oldest, Bill is the youngest.
+
+

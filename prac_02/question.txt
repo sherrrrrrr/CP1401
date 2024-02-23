@@ -1,0 +1,18 @@
+Quick Questions
+1. Write two variable names that would be valid and well-named.
+A. user_name, phone_number, product_code...
+2. Write two variable names that would be valid but not well-named.
+A. data, num, info...
+3. Write two variable names that would not be valid.
+A. not valid, no spaces...
+4. What is the naming convention for variables in Python?
+A. Use lowercase letters with underscores to separate words.
+   eg. user_name, phone_number, product_code...
+5. What is a constant? Give an example of when you would use one.
+A. In Python programming, a constant is a variable whose value never changes during the running of the program. In Python, constants are usually represented in uppercase letters.
+   eg. MAX_SCORE = 100.
+6. What is the naming convention for constants?
+A. Use a combination of capital letters and underscores to name, use words or phrases with clear meanings, keep them short, and do not repeat with keywords to avoid grammatical errors.
+Logic Exercise
+Q. A drawer contains 10 black and 10 white socks that are all mixed up. What is the fewest number of socks you can take from the drawer without looking and be sure to get a pair of the same colour?
+A. 3 socks.
